@@ -1,4 +1,30 @@
-﻿2024-01-25
+﻿2024-01-18
+1327
+0847921
+Task 1
+
+Getting started with ASP.NET Core MVC 
+- I installed Visual studio , with ASP.NET web development, after which I created web page
+- Created new project for a basic webpage using MVE template.
+
+Task 2 
+
+Add a controller
+
+- Added a basic controller using a MVC controller template.
+- Modified the code in Controllers/HelloWorldController.cs
+- Verified it by using https://localhost:7089/HelloWorld/Welcome
+
+Task 3
+
+Add a View
+
+- Modified HelloWorldController class to use Razor view files.
+- Configured  Views/HelloWorld/Index.cshtml file
+-  Added the string string "Hello from Naman's View Template!"
+- Verified the configuration with https://localhost:7089/HelloWorld/Welcome?name=Naman&numtimes=4
+
+2024-01-25
 
 13:39
 
